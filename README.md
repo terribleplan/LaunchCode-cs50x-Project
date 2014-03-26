@@ -1,8 +1,8 @@
 Feed Reader
 ===========
-RSS is a standard protocol that is commonly used to publish updates for resources including blogs, news sites, and many more. It is based in XML and designed to be easily read by programs.
+RSS is a [standard protocol](http://cyber.law.harvard.edu/rss/rss.html) that is commonly used to publish updates for resources including blogs, news sites, and many more. It is based in [XML](http://www.w3.org/TR/xml/) and designed to be easily read by programs.
 
-Your task is to create one.
+Your task is to create such a program.
 
 Basics
 ======
