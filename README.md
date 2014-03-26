@@ -104,7 +104,7 @@ This document is made available under a [CC BY-SA 4.0](http://creativecommons.or
 
 Contributing
 ============
-If you have any additional ideas you wish to share, or any additions/corrections to this document, please open a pull request. Please do not add yourself to the "Authors" section, this will be done by the repository owner. Note that terms of the contribution guidelines apply.
+If you have any additional ideas you wish to share, or any additions/corrections to this document, please open a pull request. Please do not add yourself to the "Authors" section, this will be done by the repository owner. Note that terms of the [contribution guidelines](CONTRIBUTING.md) apply.
 
 Authors
 =======
