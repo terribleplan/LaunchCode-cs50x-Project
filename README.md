@@ -100,7 +100,7 @@ These are all related to how you choose to organize and/or filter feed entries
 
 License
 =======
-This document is made available under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license, the  full text of which can be fount [online](http://creativecommons.org/licenses/by-sa/4.0/legalcode) or in the [LICENSE](LICENSE) file.
+This document is made available under a [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license, the  full text of which can be found [online](http://creativecommons.org/licenses/by-sa/4.0/legalcode) or in the [LICENSE](LICENSE) file.
 
 Contributing
 ============
