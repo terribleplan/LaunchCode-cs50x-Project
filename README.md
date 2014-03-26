@@ -17,9 +17,9 @@ Your program must be able to perform the following basic tasks:
 This project is designed to be implementable in nearly any programming language; however, it may be easiest to implement it as a web application to leverage knowledge of langauges you already know. If you do not want to write it in PHP then the following languages are suggested:
 
 * Web
-  * Node.js - Javascript on the server
-  * Ruby (on rails)
-  * Hack (a facebook derivative of PHP)
+  * [Node.js](http://nodejs.org/) - Javascript on the server
+  * [Ruby](https://www.ruby-lang.org/en/) (on [rails](http://rubyonrails.org/))
+  * [Hack](http://hacklang.org/) (a facebook derivative of PHP)
   * Java (Spring, or similar framework)
   * C# (MVC)
 
@@ -37,30 +37,30 @@ This project is designed to be implementable in nearly any programming language;
 
 
 * Mobile - cross platform
-  * Phone Gap - (HTML, CSS, JavaScript
-  * Xamarin - C#
+  * [Phone Gap](http://phonegap.com/) - (HTML, CSS, JavaScript
+  * [Xamarin](https://xamarin.com/) - C#
 
 Your application will need to store data, it is reccommended you do it with a database. If you do not want to use MySQL the following database technologies are suggested:
 
 * SQL
-  * PostgreSQL
+  * [PostgreSQL](http://www.postgresql.org/)
   * MSSQL
-  * Oracle
+  * [Oracle DB](http://www.oracle.com/us/products/database/overview/index.html)
 
 
-* NoSQL
+* [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
   * Object - Easiest
-    * MongoDB
-    * Cassandra
-    * CouchDB
+    * [MongoDB](https://www.mongodb.org/)
+    * [Cassandra](http://cassandra.apache.org/)
+    * [CouchDB](http://couchdb.apache.org/)
   * Key/Value - Hard
-    * Redis
-    * LevelDB
-    * Tokyo Cabinet or Kyoto Cabinet (or their network counterparts)
+    * [Redis](http://redis.io/)
+    * [LevelDB](https://code.google.com/p/leveldb/)
+    * [Tokyo Cabinet](http://fallabs.com/tokyocabinet/) or [Kyoto Cabinet](http://fallabs.com/kyotocabinet/) (or their [network](http://fallabs.com/tokyotyrant/) [counterparts](http://fallabs.com/kyototycoon/))
   * Graph - Harder
-    * OrientDB
-    * Neo4j
-    * VertexDB
+    * [OrientDB](http://www.orientechnologies.com/orientdb/)
+    * [Neo4j](http://www.neo4j.org/)
+    * [VertexDB](https://github.com/stevedekorte/vertexdb)
 
 
 * File (not recommended)
