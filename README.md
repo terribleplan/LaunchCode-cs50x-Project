@@ -22,11 +22,13 @@ This project is designed to be implementable in nearly any programming language;
   * [Hack](http://hacklang.org/) (a facebook derivative of PHP)
   * Java ([Spring](http://projects.spring.io/spring-framework/), or similar framework)
   * C# ([MVC](http://www.asp.net/mvc))
+  * Python ([Pylons](http://www.pylonsproject.org/))
 
 
 * Desktop (difficult to develop a UI for)
   * C/C++
   * Java
+  * Python
   * C# (Windows)
 
 
