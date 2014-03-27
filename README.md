@@ -20,8 +20,8 @@ This project is designed to be implementable in nearly any programming language;
   * [Node.js](http://nodejs.org/) - Javascript on the server
   * [Ruby](https://www.ruby-lang.org/en/) (on [rails](http://rubyonrails.org/))
   * [Hack](http://hacklang.org/) (a facebook derivative of PHP)
-  * Java (Spring, or similar framework)
-  * C# (MVC)
+  * Java ([Spring](http://projects.spring.io/spring-framework/), or similar framework)
+  * C# ([MVC](http://www.asp.net/mvc))
 
 
 * Desktop (difficult to develop a UI for)
@@ -31,9 +31,9 @@ This project is designed to be implementable in nearly any programming language;
 
 
 * Mobile - native
-  * Android - Java
-  * iOS - Objective C / cocoa
-  * Windows Phone 8 - C#
+  * [Android](http://developer.android.com/index.html) - Java
+  * [iOS](https://developer.apple.com/devcenter/ios/index.action) - Objective C / cocoa
+  * [Windows Phone 8](http://dev.windowsphone.com/en-us) - C#
 
 
 * Mobile - cross platform
@@ -44,7 +44,7 @@ Your application will need to store data, it is reccommended you do it with a da
 
 * SQL
   * [PostgreSQL](http://www.postgresql.org/)
-  * MSSQL
+  * [MSSQL](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
   * [Oracle DB](http://www.oracle.com/us/products/database/overview/index.html)
 
 
@@ -97,6 +97,12 @@ These are all related to how you choose to organize and/or filter feed entries
     * Show the most different stories first
 * Vote based
 * User interest based (weighted tags on feeds)
+
+###Various
+* Read [atom](http://www.ietf.org/rfc/rfc4287.txt)
+* Publish a combined feed (in multiple formats)
+* Read and publish using [PubSubHubbub](https://code.google.com/p/pubsubhubbub/)
+* Make your application usable via an API with [REST](http://en.wikipedia.org/wiki/Representational_state_transfer)
 
 License
 =======
